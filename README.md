@@ -1,14 +1,14 @@
-# Exercise 1.21 - Orwell
+# Exercise 1.22 - Ancient
 
-Write a program that prompts the user for an integer and prints the string "Orwell" if the number is exactly 1984.
+Write a program that prompts the user for a year. If the user inputs a number that is smaller than 2015, then the program prints the string "Ancient history!".
 
 ```plaintext
-Give a number:
-1983
+Give a year:
+2017
 ```
 
 ```plaintext
-Give a number:
-1984
-Orwell
+Give a year:
+2013
+Ancient history!
 ```
