@@ -1,4 +1,4 @@
-def orwell():
+def ancient():
     # Write your code here
     
-orwell()
+ancient()
